@@ -16,9 +16,9 @@ Perfect for use in meeting documentation, language learning, or subtitle assista
 
 ### 1. Preparation
 
-Ensure the following files and folders are present:
+Ensure the following files and folders are present: **Download from `Releases` on the right**
 
-- `RealTime_Jp2txt.exe`: The packaged executable program
+- `RealTime_Jp2txt.exe`: The packaged executable program: 
 
 - `API_Key.txt`: A plain text file containing your OpenAI API Key (GPT-4o compatible)
 
@@ -158,7 +158,7 @@ Feel free to customize and build upon this system to create your own transcripti
 
 - 确保文件夹中存在两个文件：
   
-  - `RealTime_Jp2txt.exe`：已打包好的可执行程序
+  - `RealTime_Jp2txt.exe`：已打包好的可执行程序： **在右侧的 `Releases` 里下载**
   
   - `API_Key.txt`：存放你自己的 OpenAI API Key（GPT-4o 版本支持）
 

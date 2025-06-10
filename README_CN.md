@@ -14,7 +14,7 @@
 
 - 确保文件夹中存在两个文件：
   
-  - `RealTime_Jp2txt.exe`：已打包好的可执行程序
+  - `RealTime_Jp2txt.exe`：已打包好的可执行程序： **在右侧的 `Releases` 里下载**
   
   - `API_Key.txt`：存放你自己的 OpenAI API Key（GPT-4o 版本支持）
 
