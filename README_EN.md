@@ -134,4 +134,6 @@ If you encounter problems, please check the following first:
 
 ---
 
-Feel free to customize and build upon this system to create your own transcription solutions.
+📧 ご不明な点や問題がございましたら、作者（**heu_xuyouyan@outlook.com**）までお気軽にご連絡ください。
+
+このシステムは自由にカスタマイズ・拡張して、独自の転写ソリューションを作成していただけます。

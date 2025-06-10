@@ -138,6 +138,8 @@ If you encounter problems, please check the following first:
 
 ---
 
+📧 For any questions or issues, please contact the author: **heu_xuyouyan@outlook.com**
+
 Feel free to customize and build upon this system to create your own transcription solutions.
 
 # 实时日语字幕转写系统（附带关键词功能）
@@ -269,5 +271,7 @@ Translation/
 - 音频格式转换失败（请保持默认配置）
 
 ---
+
+📧 如有任何问题，请联系作者：**heu_xuyouyan@outlook.com**
 
 如需制作自定义语言转写系统，欢迎在此基础上进行二次开发。

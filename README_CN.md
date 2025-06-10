@@ -128,4 +128,6 @@ Translation/
 
 ---
 
+📧 如有任何问题，请联系作者：**heu_xuyouyan@outlook.com**
+
 如需制作自定义语言转写系统，欢迎在此基础上进行二次开发。
